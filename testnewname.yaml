@@ -6,7 +6,8 @@ info:
     name: MIT
 servers:
   - url: http://petstore.swagger.io/v1
-paths:
+paths: 'asdf'
+hi:
   /pets:
     get:
       summary: List all pets
